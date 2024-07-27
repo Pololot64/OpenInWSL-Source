@@ -7,7 +7,7 @@ https://opticos.github.io/openinwsl
 
 ## Download:
 
-<a href='//www.microsoft.com/store/apps/9ngmqpwcg7sf?cid=storebadge&ocid=badge'><img src='https://developer.microsoft.com/store/badges/images/English_get-it-from-MS.png' alt='English badge' width='200'/></a>
+<a href='https://apps.microsoft.com/detail/9ngmqpwcg7sf'><img src='https://developer.microsoft.com/store/badges/images/English_get-it-from-MS.png' alt='English badge' width='200'/></a>
 
 The sourcecode for OpenInWSL
 
